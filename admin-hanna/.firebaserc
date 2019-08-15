@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "hanah-e0d7b"
+  },
+  "targets": {
+    "hanah-e0d7b": {
+      "hosting": {
+        "admin-hanna": [
+          "hanna-admin-ae77a"
+        ]
+      }
+    }
+  }
+}

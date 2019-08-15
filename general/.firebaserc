@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "hanah-e0d7b"
+  },
+  "targets": {
+    "hanah-e0d7b": {
+      "hosting": {
+        "hanah-e0d7b": [
+          "hanah-e0d7b"
+        ]
+      }
+    }
+  }
+}
